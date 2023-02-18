@@ -3,9 +3,27 @@ body {
 }
 ul {
 	color: green;
-	font-size: 10px;
 }
 h1 {
 	color: blue;
 	font-size: 40px;
+}
+.nav-header {
+	background-color: red;
+}
+.nav-footer {
+	background-color: yellow;
+}
+.nav {
+	font-size: 30px;
+	font-weight: bold;
+}
+.sound-p {
+	font-size: 18px;
+	text-decoration: underline;
+}
+.highlight {
+	background-color: white;
+	color: red;
+	display: inline;
 }
